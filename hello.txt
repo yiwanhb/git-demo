@@ -3,7 +3,7 @@ hello wsc
 hello wsc
 hello wsc 加一行
 hello wsc 加的第二行
-hello wsc
+hello wsc 加的第三行在first分支上
 hello wsc
 hello wsc
 hello wsc
